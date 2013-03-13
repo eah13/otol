@@ -13,4 +13,11 @@ Stoltzfus, A., O'Meara, B., Whitacre, J., Mounce, R., Gillespie, E.~L., Kumar,
   facilitate synthesis.}
 \newblock {\em BMC research notes}, 5:574.
 
+\bibitem[\protect\astroncite{Vos et~al.}{2012}]{Vos2012}
+Vos, R., Balhoff, J.~P., Caravas, J., Holder, M.~T., Lapp, H., Maddison, W.~P.,
+  Midford, P.~E., Priyam, A., Sukumaran, J., Xia, X., and Stoltzfus, A. (2012).
+\newblock {NeXML: rich, extensible, and verifiable representation of
+  comparative data and metadata.}
+\newblock {\em Systematic biology}, (Bisby 2000).
+
 \end{thebibliography}

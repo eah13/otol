@@ -37,6 +37,7 @@
 	\pagestyle{fancy}
 	\fancyhead{}
 	\fancyfoot[RO]{Journal paper Template $\bullet$ April 2012 $\bullet$ Vol. XXI, No. 1}
+	%TODO: fix collision with page number.
 
 % ------
 % Bibliography
@@ -85,19 +86,31 @@
 \begin{multicols}{2}
 
 \begin{abstract}
-Text of the Abstract
+We surveyed 101 producers and consumers of phylogenetic data to determine their perceptions of the ease and importance of providing phylogenetic metadata when archiving results in a data repository.  We found that producers labeled a majority of metadata types as easy to produce, suggesting that the production of metadata is not as much of a barrier to data sharing and metadata quality in this field as was previously thought.  
+These results suggest that computational sciences such as phylogenetics may have different barriers to data sharing, reuse, and quality than other sciences.  As more sciences use computational methods and reuse data, understanding these new needs will be critical to the effective functioning of data repositories and development of data management policies.
 \end{abstract}
 
 
 \section{Introduction}
-Topics/intro
-Open tree of life, synthesis of computational science
+Phylogenetics is the science of deriving probable evolutionary relaitonships from characteristics of clades (i.e. groups of organisms of varying size).  
+The Open Tree of Life project %TODO: cite.  Which paper?
+is a multi-institutional, NSF-funded phylogenetic synthesis project.  It is motivated by the fact that, despite many years of study, there still doesn't exist a comprehensive account of our knowledge of the evolutionary relationships of all known species.  The project seeks to collect and synthesize these trees, beginning with two example taxa.
+This project is of interest to those of us studying the archiving, sharing, and reuse of data for several reasons.  First, as a large synthesis project, it is exemplary of the kind of large scale, distrubuted scientific data projects that are increasingly shaping the availability of research data in several fields... %TODO: see, e.g. cite, cite
+Second, phylogenetics is a prime example of a computational science, where experements are performed by computation (\textit{in silico}) as opposed to in physical laboratories (\textit{in vivo}).  Phylogenetics is also notable in that much of the data used to produce trees is itself the result of computations (e.g. genetic sequence alignments).  This adds an added layer of complexity to the field's data reuse that presages a coming trend in science: the expansion of secondary computational anayses of computational analysis.  In this way, examinations of this discipline are likely to yeild insights robust to coming changes in science.
+
+
+Phylogenetics as a field also has a history of direct involvement in its own informatics (i.e. phyloinformatics). %TODO: e.g. cite, cite
+Cite these:
+\begin{itemize}
+	item Metadata quality
+	item Minimum information standards \citep{Leebens-Mack2006}
+	item Data formats \citep{Vos2012}
+	item Data reuse
+\end{itemize}
+
+In this study we are most interested in examining scientists' perceptions of the ease and importance of metadata, to understand how these might shed light on data sharing and reuse in the field
 User-centered evaluation
 
-Metadata quality
-Minimum information standards
-Data formats
-Data reuse
 \subsection{Research Questions}
 There are two primary research questions in this study.  
 \begin{compactitem}
@@ -146,10 +159,25 @@ Figure~\ref{label}
 \end{Figure}
 
 \section{Discussion}
+We found evidence that both of our hypotheses were false. 
 
+H1: producers reported that much of the metadata we asked about was produced automatically by the programs that they use.
+
+H2: Consumers seemed confident that they could effectively evaluate phylogenetic data with relativelty few metadata types
+
+\subsection{Preliminary Verification}
+Our results suggest that the next step in confirming these results will be to investigate the actual data and metadata in common repositories.  To inform our discussion, we undertook a small, uncontrolled examination of XX%TODO: fill in
+studies in data repository Dryad %TODO: cite
+Of these, we found... %TODO: table here.
+
+\subsection{Limitations}
+There are several limitations of our study that suggest caution in interpreting the results as we have here.  First, the low n (=101)
 
 \section{Conclusion}
 
+We surveyed 101 producers and consumers of phylogenetic data to determine their perceptions of the ease and importance of providing phylogenetic metadata when archiving results in a data repository.  We found that producers labeled a majority of metadata types as easy to produce, suggesting that the production of metadata is not as much of a barrier to data sharing and metadata quality in this field as was previously thought.  
+%TODO: elaborate on Conusmers
+These results suggest that computational sciences such as phylogenetics may have different barriers to data sharing, reuse, and quality than other sciences.  As more sciences use computational methods and reuse data, understanding these new needs will be critical to the effective functioning of data repositories and development of data management policies.
 %Bibliography note: this is keyed to Elliott's Mendeley bib dump, so pass any added references to me for inclusion.  I'll export a purposive .bib file once we're done.
 \bibliographystyle{apa}
 \bibliography{BibTex}
