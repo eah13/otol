@@ -11,6 +11,7 @@
 \usepackage[T1]{fontenc}
 \linespread{1.05} % Palatino needs more space between lines
 \usepackage{microtype}
+\usepackage{url}
 
 % ------
 % Page layout
@@ -92,21 +93,18 @@ These results suggest that computational sciences such as phylogenetics may have
 
 
 \section{Introduction}
-Phylogenetics is the science of deriving probable evolutionary relaitonships from characteristics of clades (i.e. groups of organisms of varying size).  
+Phylogenetics is the science of inferring probable evolutionary relationships from characteristics of organisms.  
 The Open Tree of Life project %TODO: cite.  Which paper?
-is a multi-institutional, NSF-funded phylogenetic synthesis project.  It is motivated by the fact that, despite many years of study, there still doesn't exist a comprehensive account of our knowledge of the evolutionary relationships of all known species.  The project seeks to collect and synthesize these trees, beginning with two example taxa.
-This project is of interest to those of us studying the archiving, sharing, and reuse of data for several reasons.  First, as a large synthesis project, it is exemplary of the kind of large scale, distrubuted scientific data projects that are increasingly shaping the availability of research data in several fields... %TODO: see, e.g. cite, cite
-Second, phylogenetics is a prime example of a computational science, where experements are performed by computation (\textit{in silico}) as opposed to in physical laboratories (\textit{in vivo}).  Phylogenetics is also notable in that much of the data used to produce trees is itself the result of computations (e.g. genetic sequence alignments).  This adds an added layer of complexity to the field's data reuse that presages a coming trend in science: the expansion of secondary computational anayses of computational analysis.  In this way, examinations of this discipline are likely to yeild insights robust to coming changes in science.
-
+is a multi-institutional, NSF-funded phylogenetic synthesis project.  It is motivated by the fact that, despite many years of study, there still doesn't exist a comprehensive account of our knowledge of the evolutionary relationships of all known species.  The project seeks to collect and synthesize published trees.
+This project is of interest to those of us studying the archiving, sharing, and reuse of data for several reasons.  First, as a large synthesis project, it is exemplary of the kind of large scale, distributed scientific data projects that are increasingly shaping the availability of research data in several fields... %TODO: see, e.g. cite, cite
+Second, phylogenetics is a prime example of a computational science, where experiments are performed by computation (\textit{in silico}) as opposed to in physical laboratories (\textit{in vivo}).  Phylogenetics is also notable in that much of the data used to produce trees is itself the result of computations (e.g. genetic sequence alignments).  This adds an added layer of complexity to the field's data reuse that presages a coming trend in science: the expansion of secondary computational analyses of computational analysis.  In this way, examinations of this discipline are likely to yield insights robust to coming changes in science.
 
 Phylogenetics as a field also has a history of direct involvement in its own informatics (i.e. phyloinformatics). %TODO: e.g. cite, cite
 Cite these:
-\begin{itemize}
 	item Metadata quality
 	item Minimum information standards \citep{Leebens-Mack2006}
 	item Data formats \citep{Vos2012}
-	item Data reuse
-\end{itemize}
+	item Data reuse \citep{Stoltzfus2012}
 
 In this study we are most interested in examining scientists' perceptions of the ease and importance of metadata, to understand how these might shed light on data sharing and reuse in the field
 User-centered evaluation
@@ -149,8 +147,27 @@ User-centered evaluation
 
 \section{Methods}
 %Karen's section
+To address these questions, we surveyed researchers in the field about the importance of phylogenetic metadata. The survey questions built upon previous work compiling a checklist of metadata elements that would comprise a minimum information standard for phylogenetics (MIAPA - minimum information about a phylogenetic analysis) \citep{Leebens-Mack2006} and \url{http://wiki.tdwg.org/twiki/bin/view/Phylogenetics/MIAPAWorkshop2011}. The metadata elements describe both the data that were the inputs to an analysis as well as the computational parameters used to infer the tree and summarize the results. The full list of metadata elements can be found in the survey (supplemental material / appendix). 
+
+The survey contained the following questions (paraphrased):
+
+\begin{enumerate}
+\item{Are you a producer of trees or a user of trees, or both?}
+\item{What is your career stage}
+\item{What are your fields of study}
+\item{Users of trees: categorize metadata elements as critical / important / useful for interpreting, evaluating, and using trees produced by others. }
+\item{Producers of trees: categorize metadata elements as easy / medium / difficult to provide when archiving or databasing your trees. }
+\end{enumerate}
+
+Question 4 used the following definitions: CRITICAL = without this information, you would not (or could not) use a tree; IMPORTANT = it would make use much easier, or allow use with more confidence; USEFUL = could think of uses for this data, but I would use a tree without it
+
+Question 5 used the following definitions: EASY = included in the standard input or output files for your analysis; MEDIUM = data readily available, but you would need to enter this separately from the input / output files; DIFFICULT = you would have to search for this information and / or would not generally be available for you data
+
+The complete survey is included in the supplementary materials. We received and IRB exemption from Duke University before proceeding with the survey. We sent the link to various mailing lists in evolutionary biology and advertised it via social media channels. 
 
 \section{Results}
+There were 101 respondents. Results in csv and XML form are provided in the supplemental material. 
+
 Figure~\ref{label}
 \begin{Figure}
 	\includegraphics[width=3in]{rasters/OTOL graph - wide.png}
