@@ -1,0 +1,23 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Drew et~al.}{2013}]{Drew2013}
+Drew, B.~T., Gazis, R., Padilla, P.~C., Swithers, K.~S., Soltis, D.~E.,
+  Hibbett, D.~S., Crandal, K.~A., and Katz, L.~A. (2013).
+\newblock {Data Deposition: Missing data mean holes in the Tree of Life}.
+\newblock {\em Nature}, 493(7432):305.
+
+\bibitem[\protect\astroncite{Stoltzfus et~al.}{2012}]{Stoltzfus2012}
+Stoltzfus, A., O'Meara, B., Whitacre, J., Mounce, R., Gillespie, E.~L., Kumar,
+  S., Rosauer, D.~F., and Vos, R.~a. (2012).
+\newblock {Sharing and re-use of phylogenetic trees (and associated data) to
+  facilitate synthesis.}
+\newblock {\em BMC research notes}, 5:574.
+
+\bibitem[\protect\astroncite{Vos et~al.}{2012}]{Vos2012}
+Vos, R., Balhoff, J.~P., Caravas, J., Holder, M.~T., Lapp, H., Maddison, W.~P.,
+  Midford, P.~E., Priyam, A., Sukumaran, J., Xia, X., and Stoltzfus, A. (2012).
+\newblock {NeXML: rich, extensible, and verifiable representation of
+  comparative data and metadata.}
+\newblock {\em Systematic biology}, (Bisby 2000).
+
+\end{thebibliography}
