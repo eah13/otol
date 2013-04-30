@@ -1,10 +1,28 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{{Alexander Pyron} and
+  Wiens}{2011}]{AlexanderPyron2011}
+{Alexander Pyron}, R. and Wiens, J.~J. (2011).
+\newblock {A large-scale phylogeny of Amphibia including over 2800 species, and
+  a revised classification of extant frogs, salamanders, and caecilians.}
+\newblock {\em Molecular Phylogenetics and Evolution}, 61(2):543--583.
+
 \bibitem[\protect\astroncite{Drew et~al.}{2013}]{Drew2013}
 Drew, B.~T., Gazis, R., Padilla, P.~C., Swithers, K.~S., Soltis, D.~E.,
   Hibbett, D.~S., Crandal, K.~A., and Katz, L.~A. (2013).
 \newblock {Data Deposition: Missing data mean holes in the Tree of Life}.
 \newblock {\em Nature}, 493(7432):305.
+
+\bibitem[\protect\astroncite{Leebens-Mack et~al.}{2006}]{Leebens-Mack2006}
+Leebens-Mack, J., Vision, T., Brenner, E., Bowers, J.~E., Cannon, S., Clement,
+  M.~J., Cunningham, C.~W., DePamphilis, C.~W., DeSalle, R., Doyle, J.~J.,
+  Eisen, J.~A., Gu, X. U.~N., Harshman, J., Jansen, R.~K., Kellogg, E.~A.,
+  Koonin, E., Mishler, B.~D., Philippe, H., Pires, J.~C., Qiu, Y.-L., Rhee,
+  S.~Y., Sj\"{o}lander, K., Soltis, D.~E., Soltis, P.~S., Stevenson, D.~W.,
+  Wall, K., Warnow, T., and Zmasek, C. (2006).
+\newblock {Taking the First Steps towards a Standard for Reporting on
+  Phylogenies: Minimal Information about a Phylogenetic Analysis (MIAPA)}.
+\newblock {\em OMICS: A Journal of Integrative Biology}, 10(2):231--237.
 
 \bibitem[\protect\astroncite{Stoltzfus et~al.}{2012}]{Stoltzfus2012}
 Stoltzfus, A., O'Meara, B., Whitacre, J., Mounce, R., Gillespie, E.~L., Kumar,

@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex otol"] 1363197176 "otol.aux" "otol.bbl" "otol" 1363197182
+["bibtex otol"] 1363704335 "otol.aux" "otol.bbl" "otol" 1363704337
   "/usr/local/texlive/2012/texmf-dist/bibtex/bst/beebe/apa.bst" 1136766823 23582 e3c8338eb1efb7432441aa8861285f53 ""
-  "BibTex.bib" 1363197171 3668593 9b9d99acb520d5cc9be64c4ab66457bc ""
-  "otol.aux" 1363197121 954 63dcd41cc5df4edd782e27ee8979c108 ""
+  "BibTex.bib" 1363703981 3668591 527729383171dc51363e074111ce3e44 ""
+  "otol.aux" 1363704336 1293 64127ae89b139683300aff481e896582 ""
   "otol.bcf" 0 -1 0 ""
   (generated)
   "otol.blg"
   "otol.bbl"
-["pdflatex"] 1363197120 "otol.tex" "otol.pdf" "otol" 1363197182
+["pdflatex"] 1363704336 "otol.tex" "otol.pdf" "otol" 1363704337
   "/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2012/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -101,9 +101,9 @@
   "/usr/local/texlive/2012/texmf-var/web2c/pdftex/pdflatex.fmt" 1341108725 3691572 80746d7cec090b0770bc87079bef471d ""
   "/usr/local/texlive/2012/texmf.cnf" 1341108668 572 7ea7194897937febeb63145e1c3a1f03 ""
   "/usr/local/texlive/2012/texmf/web2c/texmf.cnf" 1336865692 31299 729e216d9b945005c0d4b079c0500bc9 ""
-  "otol.aux" 1363197121 954 63dcd41cc5df4edd782e27ee8979c108 ""
-  "otol.bbl" 1363197176 1062 721b10dd7ddf00755908fc616e8cb151 "bibtex otol"
-  "otol.tex" 1363197174 7148 6ed74abf27585cfe713be6eacb81df3e ""
+  "otol.aux" 1363704336 1293 64127ae89b139683300aff481e896582 ""
+  "otol.bbl" 1363704336 2144 484b10542810c71e2fdac74e86c620bd "bibtex otol"
+  "otol.tex" 1363704333 9657 1c2ba39761faa31ad61e673002b19a0d ""
   "rasters/OTOL graph - wide.png" 1350677012 90302 7033399404cdd4a0b868fc04c82f7709 ""
   (generated)
   "otol.out"

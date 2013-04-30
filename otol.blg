@@ -3,47 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: otol.aux
 The style file: apa.bst
 Database file #1: BibTex.bib
-Warning--I didn't find a database entry for "Leebens-Mack2006"
 Warning--there's a number but no volume in Vos2012
-You've used 3 entries,
+You've used 5 entries,
             1940 wiz_defined-function locations,
-            498 strings with 4615 characters,
-and the built_in function-call counts, 1686 in all, are:
-= -- 138
-> -- 144
-< -- 0
-+ -- 54
-- -- 54
-* -- 179
-:= -- 318
-add.period$ -- 9
-call.type$ -- 3
-change.case$ -- 42
-chr.to.int$ -- 3
-cite$ -- 4
-duplicate$ -- 41
-empty$ -- 73
-format.name$ -- 57
-if$ -- 298
+            514 strings with 5756 characters,
+and the built_in function-call counts, 3300 in all, are:
+= -- 273
+> -- 300
+< -- 1
++ -- 114
+- -- 114
+* -- 361
+:= -- 610
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 82
+chr.to.int$ -- 5
+cite$ -- 6
+duplicate$ -- 69
+empty$ -- 133
+format.name$ -- 121
+if$ -- 584
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 3
-newline$ -- 18
-num.names$ -- 9
-pop$ -- 37
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 15
+pop$ -- 72
 preamble$ -- 1
-purify$ -- 42
+purify$ -- 82
 quote$ -- 0
-skip$ -- 30
+skip$ -- 51
 stack$ -- 0
-substring$ -- 54
-swap$ -- 6
+substring$ -- 128
+swap$ -- 10
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 18
+type$ -- 30
 warning$ -- 1
-while$ -- 8
+while$ -- 16
 width$ -- 0
-write$ -- 41
-(There were 2 warnings)
+write$ -- 67
+(There was 1 warning)
