@@ -1,12 +1,5 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\astroncite{{Alexander Pyron} and
-  Wiens}{2011}]{AlexanderPyron2011}
-{Alexander Pyron}, R. and Wiens, J.~J. (2011).
-\newblock {A large-scale phylogeny of Amphibia including over 2800 species, and
-  a revised classification of extant frogs, salamanders, and caecilians.}
-\newblock {\em Molecular Phylogenetics and Evolution}, 61(2):543--583.
-
 \bibitem[\protect\astroncite{Drew et~al.}{2013}]{Drew2013}
 Drew, B.~T., Gazis, R., Padilla, P.~C., Swithers, K.~S., Soltis, D.~E.,
   Hibbett, D.~S., Crandal, K.~A., and Katz, L.~A. (2013).
@@ -36,6 +29,6 @@ Vos, R., Balhoff, J.~P., Caravas, J., Holder, M.~T., Lapp, H., Maddison, W.~P.,
   Midford, P.~E., Priyam, A., Sukumaran, J., Xia, X., and Stoltzfus, A. (2012).
 \newblock {NeXML: rich, extensible, and verifiable representation of
   comparative data and metadata.}
-\newblock {\em Systematic biology}, (Bisby 2000).
+\newblock {\em Systematic biology}, 61(4).
 
 \end{thebibliography}
